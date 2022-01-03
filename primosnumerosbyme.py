@@ -1,0 +1,1 @@
+# escribir el codigo para mejorar la funcion del profe para encontar un numero primo 

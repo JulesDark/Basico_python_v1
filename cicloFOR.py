@@ -1,0 +1,18 @@
+#contador = 1 # Contador con while
+#print(contador)
+#while contador < 1000:
+#    contador = contador + 1
+#    print(contador) 
+
+
+
+##################################333
+#a = list(range(1001))
+#print(a)
+
+# for contador in range(1, 1001): 
+#    print(contador)
+
+for i in range(10):
+    print(11*i)
+
